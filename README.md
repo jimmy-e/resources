@@ -51,3 +51,4 @@ Sections:
 * CSS Tips & Tricks    
   * [Maybe try outline-color transparent instead](https://www.youtube.com/shorts/4B_4WLpbyp8)
   * [Make a resizable element](https://www.youtube.com/shorts/Adqudv8o5PQ)
+  * [Change images based on sizing](https://www.youtube.com/shorts/d9i68C628Nk)
